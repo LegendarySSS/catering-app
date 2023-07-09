@@ -1,0 +1,11 @@
+{
+    "id": "menu-navigation",
+    "name": "菜单导航、侧边栏左右交互导航、滚动动画menu-navigation",
+    "version": "1.0.0",
+    "description": "侧边栏导航",
+    "keywords": [
+        "菜单导航",
+        "侧边栏左右交互导航",
+        "滚动动画menu-navigation"
+    ]
+}
